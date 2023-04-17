@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #cbcbcb;
+}
+#home .social-links {
+  font-size: 25px;
+}
+#project {
+  background-color: #ffff;
+}
+
+#skills {
+  background-color: #cbcbcb;
+}
+section {
+  padding-top: 5rem;
+}
+#contact {
+  background-color: #cbcbcb;
+}
